@@ -1,7 +1,7 @@
 # Creating connection to MySQL
 import mysql.connector as mysql
 
-# Import API key
+# Import DB Info
 from db_connect import MY_HOST, MY_USER, MY_PASS
 
 def main():
